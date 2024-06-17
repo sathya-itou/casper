@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "techonerd",
+		"Email": "techonerd1.0@gmail.com"
+      }
+    ],
+    "Description": "Dedicated to my cat Casper as he is our morning star.",
+    "Id": "casper",
+    "License": "GPLv3",
+    "Name": "CasperTheMorningStar",
+    "Website": "https://github.com/techonerd/casper"
+  }
+}
